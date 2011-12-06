@@ -36,7 +36,7 @@ ln -s Makefile.unix config/Makefile
 
 %build
 %{__make} -j1 \
-	CPP="%{__cc} -E"  \
+	CPP="%{__cc} -E -x c"  \
 	CFLAGS="%{rpmcflags}"
 
 %install
