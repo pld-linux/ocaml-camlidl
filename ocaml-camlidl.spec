@@ -2,7 +2,7 @@ Summary:	Camlidl - stub code generator for OCaml
 Summary(pl.UTF-8):	Camlidl - generator kodu zaślepek dla OCamla
 Name:		ocaml-camlidl
 Version:	1.05
-Release:	1
+Release:	2
 License:	QPL v1.0 (compiler), LGPL v2 (library)
 Group:		Libraries
 Source0:	http://caml.inria.fr/pub/old_caml_site/distrib/bazar-ocaml/camlidl-%{version}.tar.gz
