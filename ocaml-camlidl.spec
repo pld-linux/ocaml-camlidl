@@ -1,3 +1,5 @@
+# NOTE
+# - duplicate of ocaml-idl.spec
 Summary:	Camlidl - stub code generator for OCaml
 Summary(pl.UTF-8):	Camlidl - generator kodu zaślepek dla OCamla
 Name:		ocaml-camlidl
